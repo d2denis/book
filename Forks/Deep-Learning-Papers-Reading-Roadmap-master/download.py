@@ -3,7 +3,6 @@ import os
 import re
 from six.moves.urllib.request import urlopen
 from six.moves.urllib.error import HTTPError
-import urllib3
 import shutil
 import argparse
 import mistune
