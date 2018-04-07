@@ -33,8 +33,8 @@ The online version of the book is now complete and will remain
 available online for free.
 </p>
 
-<p>The deep learning textbook can now be pre-ordered on
-<a href="https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book">Amazon</a>. Pre-orders should ship on December 16, 2016.
+<p>The deep learning textbook can now be ordered on
+<a href="https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book">Amazon</a>.
 
 <p>For up to date announcements, join our
 <a href="https://groups.google.com/forum/#!forum/deeplearningbook">mailing list</a>.
@@ -53,7 +53,15 @@ available online for free.
 </pre>
 </tt>
 
+<p>
+To write your own document using our LaTeX style, math notation, or
+to copy our notation page, download our
+<a href="https://github.com/goodfeli/dlbook_notation">template</a> files.
+</p>
+
+<p>
 <a href="https://docs.google.com/document/d/1ABlp7FluwZ0B82_fjNOFVQ2uOZkfuF8elbofhZmNXag/edit?usp=sharing">Errata in published editions</a>
+</p>
 
 <h2>Deep Learning</h2>
     <ul>
